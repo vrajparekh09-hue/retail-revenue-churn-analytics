@@ -81,7 +81,7 @@ Derived tables built in the notebook: a line-item transactions table (revenue, c
 ## How to Run
 
 1. Open `retail_operation.ipynb` in [Google Colab](https://colab.research.google.com).
-2. Upload the four CSV files to Google Drive and update the file paths in the data loading cell (currently `/content/drive/MyDrive/files for python/...`).
+2. Upload the five CSV files to Google Drive and update the file paths in the data loading cell (currently `/content/drive/MyDrive/files for python/...`).
 3. Install extra libraries in their own cell, then restart the runtime if Colab asks:
    ```python
    !pip install -q prophet lifelines statsmodels
