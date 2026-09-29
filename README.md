@@ -102,6 +102,6 @@ Derived tables built in the notebook: a line-item transactions table (revenue, c
 
 ## About the Author
 
-**Vraj** is an aspiring Business / Data Analyst with a background in Electrical Engineering, working with SQL, Tableau, Power BI Excel and Python.
+**Vraj** is an aspiring Business / Data Analyst with a background in Electrical Engineering, working with SQL, Tableau, Power BI , Excel and Python.
 
 - LinkedIn: www.linkedin.com/in/vraj-parekh-67a588271
